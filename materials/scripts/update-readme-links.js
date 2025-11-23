@@ -1,7 +1,7 @@
 #!/usr/bin/env node
 
 /**
- * Update links in README.md
+ * Update links in CONTRIBUTING.md
  */
 
 const fs = require('fs');
@@ -12,7 +12,7 @@ const { FIELD_NAMES, GITHUB_CONFIG, REQUIRED_FIELDS } = require('./config/consta
 const args = process.argv.slice(2);
 const repoUrl = args[0] || GITHUB_CONFIG.REPO_URL;
 
-console.log('🔗 Updating links in README...');
+console.log('🔗 Updating links in CONTRIBUTING.md...');
 console.log(`📦 Repository URL: ${repoUrl}`);
 
 // Function to generate links
@@ -79,22 +79,22 @@ console.log('\n📝 Generated links:');
 console.log('Registration link:', registrationLink);
 console.log('Submission link:', submissionLink);
 
-// Read README file
-const readmePath = path.join(__dirname, '../../README.md');
-let readmeContent = fs.readFileSync(readmePath, 'utf8');
+// Read CONTRIBUTING.md file
+const contributingPath = path.join(__dirname, '../../CONTRIBUTING.md');
+let contributingContent = fs.readFileSync(contributingPath, 'utf8');
 
 // Update registration link (replace all content between comment markers)
 const registrationPattern = /(<!-- Registration link start -->)[\s\S]*?(<!-- Registration link end -->)/;
 const newRegistrationContent = `$1\n[Register ➡️](${registrationLink})\n$2`;
-readmeContent = readmeContent.replace(registrationPattern, newRegistrationContent);
+contributingContent = contributingContent.replace(registrationPattern, newRegistrationContent);
 
 // Update submission link (replace all content between comment markers)
 const submissionPattern = /(<!-- Submission link start -->)[\s\S]*?(<!-- Submission link end -->)/;
 const newSubmissionContent = `$1\n\n[Submit ➡️](${submissionLink})\n\n$2`;
-readmeContent = readmeContent.replace(submissionPattern, newSubmissionContent);
+contributingContent = contributingContent.replace(submissionPattern, newSubmissionContent);
 
 // Write back to file
-fs.writeFileSync(readmePath, readmeContent, 'utf8');
+fs.writeFileSync(contributingPath, contributingContent, 'utf8');
 
-console.log('\n✅ README links update completed!');
-console.log('📄 File path:', readmePath);
+console.log('\n✅ CONTRIBUTING.md links update completed!');
+console.log('📄 File path:', contributingPath);
