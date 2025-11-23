@@ -6,6 +6,10 @@ This virtual **Casual Hackathon** runs from **Nov 2 – Nov 9**, featuring brain
 
 This is phase 2 of **“Let’s Build Trustless Agents”**, co-hosted by [LXDAO](https://x.com/LXDAO_Official) and [ETHPanda](https://x.com/ETHPanda_Org), with special support from the EF dAI team. Community -> <https://t.me/Trustless_Agents_ERC_8004_CH>
 
+<!--  -->
+
+### [VRegister & Submission 👉 ](./CONTRIBUTING.md#-registration)
+
 ## ⏰ Program Timeline
 
 | Event                         | Time                                | Format                                                                                                 | Recap                                         |
