@@ -14,15 +14,16 @@ class RegistrationProcessor {
      * Process registration request
      * @param {string} issueBody - Issue content
      * @param {string} githubUser - GitHub username
+     * @param {string} avatarUrl - User avatar URL
      */
-    static processRegistration(issueBody, githubUser) {
+    static processRegistration(issueBody, githubUser, avatarUrl) {
         console.log('Starting registration processing...');
 
         // Validate required fields
         FieldValidator.validateRequiredFields(issueBody, 'REGISTRATION');
 
-        // Save original issue content
-        this.createRegistrationFile(githubUser, issueBody);
+        // Save original issue content with avatar URL
+        this.createRegistrationFile(githubUser, issueBody, avatarUrl);
 
         // Update README table
         this.updateRegistrationTable();
@@ -35,10 +36,15 @@ class RegistrationProcessor {
      * Create registration file
      * @param {string} githubUser - GitHub username
      * @param {string} originalIssueBody - Original issue content
+     * @param {string} avatarUrl - User avatar URL
      */
-    static createRegistrationFile(githubUser, originalIssueBody) {
+    static createRegistrationFile(githubUser, originalIssueBody, avatarUrl) {
         const filePath = UserManager.getRegistrationFilePath(githubUser);
-        FileManager.saveFile(filePath, originalIssueBody, 'Registration information written');
+        // Append avatar URL to the file content
+        const contentWithAvatar = avatarUrl ?
+            `${originalIssueBody}\n\n**${FIELD_NAMES.REGISTRATION.AVATAR_URL}**\n> ${avatarUrl}` :
+            originalIssueBody;
+        FileManager.saveFile(filePath, contentWithAvatar, 'Registration information written');
     }
 
     /**
@@ -59,6 +65,7 @@ class RegistrationProcessor {
                 const contact = parseFieldFromContent(content, FIELD_NAMES.REGISTRATION.CONTACT);
                 const walletAddress = parseFieldFromContent(content, FIELD_NAMES.REGISTRATION.WALLET_ADDRESS);
                 const teamWillingness = parseFieldFromContent(content, FIELD_NAMES.REGISTRATION.TEAM_WILLINGNESS);
+                const avatarUrl = parseFieldFromContent(content, FIELD_NAMES.REGISTRATION.AVATAR_URL);
 
                 // Skip this file if parsing fails or key fields are empty
                 if (!name || !contact || !walletAddress) {
@@ -72,6 +79,7 @@ class RegistrationProcessor {
                     contact,
                     walletAddress,
                     teamWillingness,
+                    avatarUrl,
                     fileName: file
                 };
             } catch (error) {
@@ -100,7 +108,12 @@ class RegistrationProcessor {
 
             const issueUrl = ReadmeManager.generateIssueUrl(issueTitle, issueBody);
 
-            table += `| ${row.name} | ${row.description} | ${row.contact} | ${row.teamWillingness} | [Edit](${issueUrl}) |\n`;
+            // Format name with avatar if available
+            const nameWithAvatar = row.avatarUrl ?
+                `<img src="${row.avatarUrl}" width="20" height="20" style="border-radius: 50%; vertical-align: middle;" /> ${row.name}` :
+                row.name;
+
+            table += `| ${nameWithAvatar} | ${row.description} | ${row.contact} | ${row.teamWillingness} | [Edit](${issueUrl}) |\n`;
         });
 
         ReadmeManager.updateReadmeSection('REGISTRATION', table);

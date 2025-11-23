@@ -22,35 +22,25 @@ This is phase 2 of **“Let’s Build Trustless Agents”**, co-hosted by [LXDAO
 ## 📝 Registration
 
 <!-- Registration link start -->
-[Register ➡️](https://github.com/CasualHackathon/UniversalAI-ZetaChain/issues/new?title=Registration%20-%20New&body=%23%23%20Registration%20Form%0A%0A%3E%20%F0%9F%93%9D%20**Please%20fill%20in%20the%20content%20after%20%22%3E%22**%0A%0A**Name**%20(Please%20enter%20your%20full%20name%20%7C%20Required)%0A%3E%0A%0A**Description**%20(Brief%20personal%20introduction%20including%20skills%20and%20experience%20%7C%20Required)%0A%3E%0A%0A**Contact**%20(Format%3A%20Contact%20Method%3A%20Contact%20Account%2C%20e.g.%2C%20Telegram%3A%20%40username%2C%20WeChat%3A%20username%2C%20Email%3A%20email%40example.com%20%7C%20Required)%0A%3E%0A%0A**Wallet%20Address**%20(Your%20wallet%20address%20or%20ENS%20domain%20on%20Ethereum%20mainnet)%0A%3E%0A%0A**Team%20Willingness**%20(Choose%20one%3A%20Yes%20%7C%20No%20%7C%20Maybe)%0A%3E)
+
+[Register ➡️](<https://github.com/CasualHackathon/UniversalAI-ZetaChain/issues/new?title=Registration%20-%20New&body=%23%23%20Registration%20Form%0A%0A%3E%20%F0%9F%93%9D%20**Please%20fill%20in%20the%20content%20after%20%22%3E%22**%0A%0A**Name**%20(Please%20enter%20your%20full%20name%20%7C%20Required)%0A%3E%0A%0A**Description**%20(Brief%20personal%20introduction%20including%20skills%20and%20experience%20%7C%20Required)%0A%3E%0A%0A**Contact**%20(Format%3A%20Contact%20Method%3A%20Contact%20Account%2C%20e.g.%2C%20Telegram%3A%20%40username%2C%20WeChat%3A%20username%2C%20Email%3A%20email%40example.com%20%7C%20Required)%0A%3E%0A%0A**Wallet%20Address**%20(Your%20wallet%20address%20or%20ENS%20domain%20on%20Ethereum%20mainnet)%0A%3E%0A%0A**Team%20Willingness**%20(Choose%20one%3A%20Yes%20%7C%20No%20%7C%20Maybe)%0A%3E>)
+
 <!-- Registration link end -->
 
 - Note: Please do not modify other people's information.
-
-<!-- Registration start -->
-
-| Name | Description | Contact | Team Willingness | Operate |
-| ---- | ----------- | ------- | ---------------- | ------- |
-
-<!-- Registration end -->
+- View registration list: [Registration](./CONTRIBUTING.md#-registration)
 
 ## 🎯 Submission
 
 <!-- Submission link start -->
 
-[Submit ➡️](https://github.com/CasualHackathon/UniversalAI-ZetaChain/issues/new?title=Submission%20-%20New&body=%23%23%20Project%20Submission%20Form%0A%0A%3E%20%F0%9F%93%9D%20**Please%20fill%20in%20the%20content%20after%20%22%3E%22**%0A%0A**Project%20Name**%20(Enter%20your%20project%20name%20%7C%20Required)%0A%3E%0A%0A**Project%20Description**%20(Brief%20description%20about%20your%20project%20in%20one%20sentence%20%7C%20Required)%0A%3E%0A%0A**Repository%20URL**%20(Open%20source%20repository%20URL%20-%20project%20must%20be%20open%20source)%0A%3E%0A%0A**Project%20Leader**%20(Project%20leader%20name%20%7C%20Required)%0A%3E%0A%0A**Project%20Members**%20(List%20all%20team%20members%2C%20comma-separated)%0A%3E%0A%0A**Team%20Members%20Wallet**%20(List%20all%20team%20members%20wallet%2C%20comma-separated%20e.g.%2C%20Alice%3A0x12345...%20%2C%20Bob%3A0x12345...)%0A%3E)
+[Submit ➡️](<https://github.com/CasualHackathon/UniversalAI-ZetaChain/issues/new?title=Submission%20-%20New&body=%23%23%20Project%20Submission%20Form%0A%0A%3E%20%F0%9F%93%9D%20**Please%20fill%20in%20the%20content%20after%20%22%3E%22**%0A%0A**Project%20Name**%20(Enter%20your%20project%20name%20%7C%20Required)%0A%3E%0A%0A**Project%20Description**%20(Brief%20description%20about%20your%20project%20in%20one%20sentence%20%7C%20Required)%0A%3E%0A%0A**Repository%20URL**%20(Open%20source%20repository%20URL%20-%20project%20must%20be%20open%20source)%0A%3E%0A%0A**Project%20Leader**%20(Project%20leader%20name%20%7C%20Required)%0A%3E%0A%0A**Project%20Members**%20(List%20all%20team%20members%2C%20comma-separated)%0A%3E%0A%0A**Team%20Members%20Wallet**%20(List%20all%20team%20members%20wallet%2C%20comma-separated%20e.g.%2C%20Alice%3A0x12345...%20%2C%20Bob%3A0x12345...)%0A%3E>)
 
 <!-- Submission link end -->
 
 - Complete registration before submitting.
 - Note: Please do not modify other people's information.
-
-<!-- Submission start -->
-
-| Project | Description | Members | Leader | Repository | Operate |
-| ------- | ----------- | ------- | ------ | ---------- | ------- |
-
-<!-- Submission end -->
+- View project submissions: [Submission](./CONTRIBUTING.md#-submission)
 
 ## ⏰ Program Timeline
 

@@ -10,6 +10,7 @@ const RegistrationProcessor = require('./processors/registration-processor');
 const issueBody = process.env.ISSUE_BODY;
 
 const githubUser = process.env.ISSUE_USER;
+const avatarUrl = process.env.ISSUE_USER_AVATAR;
 
 // Debug output
 console.log('Processing user:', githubUser);
@@ -17,7 +18,7 @@ console.log('Issue content:\n', issueBody);
 
 try {
     // Process registration
-    RegistrationProcessor.processRegistration(issueBody, githubUser);
+    RegistrationProcessor.processRegistration(issueBody, githubUser, avatarUrl);
 
     // Set script_success to true when processing completes successfully
     if (process.env.GITHUB_OUTPUT) {

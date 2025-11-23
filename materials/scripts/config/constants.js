@@ -22,7 +22,8 @@ const FIELD_NAMES = {
         DESCRIPTION: 'Description',
         CONTACT: 'Contact',
         WALLET_ADDRESS: 'Wallet Address',
-        TEAM_WILLINGNESS: 'Team Willingness'
+        TEAM_WILLINGNESS: 'Team Willingness',
+        AVATAR_URL: 'Avatar URL'
     },
     // Project submission fields
     SUBMISSION: {

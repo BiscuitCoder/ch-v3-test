@@ -108,7 +108,7 @@ class SubmissionProcessor {
         });
 
         // Generate table content directly
-        let table = '| Project | Description | Members | Leader | Repository | Operate |\n| ----------- | ----------------- | -------------- | ------- | ---------- | -------- |\n';
+        let table = '| Project | Description | Members | Leader | Repository | Operate |\n| ------- | ----------- | ------- | ------ | ---------- | ------- |\n';
 
         rows.forEach((row) => {
             const issueTitle = `Submission - ${row.projectName}`;

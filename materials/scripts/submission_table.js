@@ -1,7 +1,7 @@
 /**
  * Submission status table update script
  * 
- * Used to update project submission status table in README.md
+ * Used to update project submission status table in CONTRIBUTING.md
  */
 
 const SubmissionProcessor = require('./processors/submission-processor');
