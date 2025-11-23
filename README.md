@@ -8,7 +8,7 @@ This is phase 2 of **“Let’s Build Trustless Agents”**, co-hosted by [LXDAO
 
 <!--  -->
 
-### [VRegister & Submission 👉 ](./CONTRIBUTING.md#-registration)
+#### [VRegister & Submission 👉 ](https://github.com/BiscuitCoder/ch-v3-test?tab=contributing-ov-file)
 
 ## ⏰ Program Timeline
 
