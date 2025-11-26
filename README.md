@@ -1,6 +1,8 @@
 # 通用 AI 共学黑客松
 
-[报名参赛 & 项目提交 👉 ](/?tab=contributing-ov-file#-报名参赛)
+[报名参赛 👉 ](https://github.com/BiscuitCoder/ch-v3-test?tab=contributing-ov-file#-%E6%8A%A5%E5%90%8D%E5%8F%82%E8%B5%9B)
+
+[参赛项目提交 👉 ](https://github.com/BiscuitCoder/ch-v3-test?tab=contributing-ov-file#-%E5%8F%82%E8%B5%9B%E9%A1%B9%E7%9B%AE%E6%8F%90%E4%BA%A4)
 
 **去中心化且无需信任的 AI 智能体**正在重塑以太坊生态系统，**ERC-8004** 是其核心。
 
