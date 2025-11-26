@@ -94,20 +94,30 @@ jobs:
           script: |
             const { owner, repo } = context.repo;
             const issue_number = context.payload.issue.number;
+            
             // Get error message from extract-submission step output (use default if not available)
-            const errorMessage = `${{ steps.extract-submission.outputs.error_message }}` || '❌ **处理失败**\n\n处理过程中发生未知错误。请检查提交格式是否正确。';
+            // Read from environment variable to safely handle special characters
+            let errorMessage = process.env.ERROR_MESSAGE || '❌ **处理失败**\n\n处理过程中发生未知错误。请检查提交格式是否正确。';
             
-            // Add error comment to Issue
-            await github.rest.issues.createComment({
-              owner,
-              repo,
-              issue_number,
-              body: errorMessage
-            });
+            try {
+              // Add error comment to Issue
+              await github.rest.issues.createComment({
+                owner,
+                repo,
+                issue_number,
+                body: errorMessage
+              });
+              
+              console.log(`❌ Error reported to user via comment: Issue #${issue_number}`);
+            } catch (commentError) {
+              console.error(`Failed to add comment: ${commentError.message}`);
+              // Still mark as failed even if comment fails
+            }
             
-            console.log(`❌ Error reported to user via comment: Issue #${issue_number}`);
             // Mark entire job as failed (expected state for error scenario)
             core.setFailed(errorMessage);
+        env:
+          ERROR_MESSAGE: ${{ steps.extract-submission.outputs.error_message }}
 
       - name: Commit & Push Changes
         if: steps.extract-submission.outputs.script_success == 'true'

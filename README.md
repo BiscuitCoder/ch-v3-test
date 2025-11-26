@@ -1,6 +1,6 @@
 # 通用 AI 共学黑客松
 
-[报名参赛 & 项目提交 👉 ](./CONTRIBUTING.md)
+[报名参赛 & 项目提交 👉 ](/?tab=contributing-ov-file#-报名参赛)
 
 **去中心化且无需信任的 AI 智能体**正在重塑以太坊生态系统，**ERC-8004** 是其核心。
 
@@ -9,8 +9,6 @@
 这是 **"Let's Build Trustless Agents"** 的第二阶段，由 [LXDAO](https://x.com/LXDAO_Official) 和 [ETHPanda](https://x.com/ETHPanda_Org) 联合主办，EF dAI 团队特别支持。社区 -> <https://t.me/Trustless_Agents_ERC_8004_CH>
 
 <!--  -->
-
-
 
 ## ⏰ 活动时间表
 
