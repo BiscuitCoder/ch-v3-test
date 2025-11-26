@@ -33,7 +33,7 @@ function generateFieldWithRequired(fieldName, description, fieldType) {
 }
 
 // Generate registration link
-const registrationLink = generateIssueUrl(`${GITHUB_CONFIG.ISSUE_TITLE_PREFIXES.REGISTRATION} - New`, `## 报名表单
+const registrationLink = generateIssueUrl(`${GITHUB_CONFIG.ISSUE_TITLE_PREFIXES.REGISTRATION} - New`, `## 参赛报名
 
 ${NOTE}
 
@@ -53,7 +53,7 @@ ${generateFieldWithRequired(FIELD_NAMES.REGISTRATION.TEAM_WILLINGNESS, '选择�
 >`);
 
 // Generate submission link
-const submissionLink = generateIssueUrl(`${GITHUB_CONFIG.ISSUE_TITLE_PREFIXES.SUBMISSION} - New`, `## 项目提交表单
+const submissionLink = generateIssueUrl(`${GITHUB_CONFIG.ISSUE_TITLE_PREFIXES.SUBMISSION} - New`, `## 参赛项目提交
 
 ${NOTE}
 

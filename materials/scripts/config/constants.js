@@ -55,8 +55,8 @@ const REQUIRED_FIELDS = {
 const GITHUB_CONFIG = {
     REPO_URL: 'https://github.com/BiscuitCoder/ch-v3-test', // TODO: Replace with actual repository URL
     ISSUE_TITLE_PREFIXES: {
-        REGISTRATION: '报名',
-        SUBMISSION: '提交'
+        REGISTRATION: '参赛报名',
+        SUBMISSION: '参赛项目提交'
     }
 };
 
