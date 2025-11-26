@@ -33,7 +33,7 @@ function generateFieldWithRequired(fieldName, description, fieldType) {
 }
 
 // Generate registration link
-const registrationLink = generateIssueUrl(`${GITHUB_CONFIG.ISSUE_TITLE_PREFIXES.REGISTRATION} - New`, `## 参赛报名
+const registrationLink = generateIssueUrl(`${GITHUB_CONFIG.ISSUE_TITLE_PREFIXES.REGISTRATION} - New`, `## 报名参赛
 
 ${NOTE}
 
