@@ -1,9 +1,9 @@
 const path = require('path');
-const FileManager = require('../utils/file-manager');
-const { parseFieldFromContent } = require('../utils/parser-manager');
-const UserManager = require('../utils/user-manager');
-const ReadmeManager = require('../utils/readme-manager');
-const FieldValidator = require('../utils/field-validator');
+const FileManager = require('../utils/file_manager');
+const { parseFieldFromContent } = require('../utils/parser_manager');
+const UserManager = require('../utils/user_manager');
+const ReadmeManager = require('../utils/readme_manager');
+const FieldValidator = require('../utils/field_validator');
 const { DIRECTORIES, FIELD_NAMES, GITHUB_CONFIG } = require('../config/constants');
 
 /**
@@ -96,7 +96,7 @@ class RegistrationProcessor {
         });
 
         // Generate table content directly
-        let table = '| Name | Description | Contact | Team Willingness | Operate |\n| ---- | ----------- | ------- | ---------------- | ------- |\n';
+        let table = '| 头像 | 姓名 | 简介 | 联系方式 | 组队意愿 | 操作 |\n| ---- | ---- | ----------- | ------- | ---------------- | ------- |\n';
 
         rows.forEach((row) => {
             const issueTitle = `${GITHUB_CONFIG.ISSUE_TITLE_PREFIXES.REGISTRATION} - ${row.name}`;
@@ -108,12 +108,12 @@ class RegistrationProcessor {
 
             const issueUrl = ReadmeManager.generateIssueUrl(issueTitle, issueBody);
 
-            // Format name with avatar if available
-            const nameWithAvatar = row.avatarUrl ?
-                `<img src="${row.avatarUrl}" width="20" height="20" style="border-radius: 50%; vertical-align: middle;" /> ${row.name}` :
-                row.name;
+            // Format avatar separately
+            const avatar = row.avatarUrl ?
+                `<img src="${row.avatarUrl}" width="30" height="30" style="border-radius: 50%; vertical-align: middle;" />` :
+                '';
 
-            table += `| ${nameWithAvatar} | ${row.description} | ${row.contact} | ${row.teamWillingness} | [Edit](${issueUrl}) |\n`;
+            table += `| ${avatar} | ${row.name} | ${row.description} | ${row.contact} | ${row.teamWillingness} | [编辑](${issueUrl}) |\n`;
         });
 
         ReadmeManager.updateReadmeSection('REGISTRATION', table);

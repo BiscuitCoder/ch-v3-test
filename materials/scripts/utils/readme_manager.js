@@ -1,5 +1,5 @@
 const path = require('path');
-const FileManager = require('./file-manager');
+const FileManager = require('./file_manager');
 const { README_MARKERS, GITHUB_CONFIG } = require('../config/constants');
 
 /**

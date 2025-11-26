@@ -1,117 +1,117 @@
-# UniversalAI-ZetaChain Casual Hackathon
+# 通用 AI 共学黑客松
 
-**Decentralized and Trustless AI Agents** are reshaping the Ethereum ecosystem, with **ERC-8004** at the core.
+**去中心化且无需信任的 AI 智能体**正在重塑以太坊生态系统，**ERC-8004** 是其核心。
 
-This virtual **Casual Hackathon** runs from **Nov 2 – Nov 9**, featuring brainstorming, team matching, workshops, AMAs, an open day, and a demo day. Feel free to register in advance! Bring your ideas, code, and creativity to build the next wave of decentralized AI agents.
+本次虚拟 **Casual Hackathon** 将于 **11 月 2 日至 11 月 9 日**举行，包含头脑风暴、团队匹配、工作坊、AMA、开放日和演示日等活动。欢迎提前报名！带上您的想法、代码和创造力，共同构建下一代去中心化 AI 智能体。
 
-This is phase 2 of **“Let’s Build Trustless Agents”**, co-hosted by [LXDAO](https://x.com/LXDAO_Official) and [ETHPanda](https://x.com/ETHPanda_Org), with special support from the EF dAI team. Community -> <https://t.me/Trustless_Agents_ERC_8004_CH>
+这是 **"Let's Build Trustless Agents"** 的第二阶段，由 [LXDAO](https://x.com/LXDAO_Official) 和 [ETHPanda](https://x.com/ETHPanda_Org) 联合主办，EF dAI 团队特别支持。社区 -> <https://t.me/Trustless_Agents_ERC_8004_CH>
 
 <!--  -->
 
-### [VRegister & Submission 👉 ](./CONTRIBUTING.md#-registration)
+### [报名 & 提交 👉 ](./CONTRIBUTING.md#-报名)
 
-## ⏰ Program Timeline
+## ⏰ 活动时间表
 
-| Event                         | Time                                | Format                                                                                                 | Recap                                         |
-| ----------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------ | --------------------------------------------- |
-| **Open Day**                  | Nov. 2, 5:30 PM UTC+8               | Online [Zoom Meeting Link](https://us06web.zoom.us/j/85189575712?pwd=IzSPtiydYWE2JhBBXdZJmWkGwH74wQ.1) |                                               |
-| **Workshop**                  | TBD                                 | Online                                                                                                 | [Previous Workshop Videos](#-workshop-videos) |
-| **Virtual Co-Building hours** | Every day from 2 PM to 3 PM (UTC+8) | Online [Zoom Meeting Link](https://us06web.zoom.us/j/86925739868?pwd=R7aKJpynR7Iymgo1nHxiiPXhkRMTOA.1) |                                               |
-| **Demo Day**                  | Nov. 11, 13:00 PM - 15:00 PM UTC+8  | Online [Zoom Meeting Link](https://us06web.zoom.us/j/87674935176?pwd=iYXaIj6SCZFUOvpNO8KptPFCQytYaB.1) |                                               |
+| 活动             | 时间                            | 形式                                                                                             | 回顾                                |
+| ---------------- | ------------------------------- | ------------------------------------------------------------------------------------------------ | ----------------------------------- |
+| **开放日**       | 11 月 2 日 17:30 UTC+8          | 线上 [Zoom 会议链接](https://us06web.zoom.us/j/85189575712?pwd=IzSPtiydYWE2JhBBXdZJmWkGwH74wQ.1) |                                     |
+| **工作坊**       | 待定                            | 线上                                                                                             | [往期工作坊视频](#-workshop-videos) |
+| **虚拟共建时间** | 每天 14:00 - 15:00 (UTC+8)      | 线上 [Zoom 会议链接](https://us06web.zoom.us/j/86925739868?pwd=R7aKJpynR7Iymgo1nHxiiPXhkRMTOA.1) |                                     |
+| **演示日**       | 11 月 11 日 13:00 - 15:00 UTC+8 | 线上 [Zoom 会议链接](https://us06web.zoom.us/j/87674935176?pwd=iYXaIj6SCZFUOvpNO8KptPFCQytYaB.1) |                                     |
 
-## ⏰ Program Timeline
+## ⏰ 活动时间表
 
-- **Casual Hackathon**: Nov 2 – Nov 9. Hands-on implementation and creative exploration
-- **Demo Day**: Around Nov 9-11 Time TBD. Submit on GitHub, live show, fun prizes
+- **Casual Hackathon**：11 月 2 日 – 11 月 9 日。动手实践和创意探索
+- **演示日**：11 月 9-11 日左右，时间待定。在 GitHub 上提交，现场展示，丰厚奖品
 
-Stay up to date by joining Telegram group: <https://t.me/Trustless_Agents_ERC_8004_CH>.
+加入 Telegram 群组，获取最新动态：<https://t.me/Trustless_Agents_ERC_8004_CH>。
 
-## 👨‍💻 Who Should Join?
+## 👨‍💻 适合谁参加？
 
-This isn't a bootcamp for beginners — it's a high-bar, low-ego program designed for:
+这不是面向初学者的训练营——这是一个高标准、低门槛的项目，适合：
 
-- **AI Agent & Ethereum Developers**: Expanding Ethereum's capabilities into decentralized AI
-- **AI/ML Engineers & Researchers**: Building trustless, verifiable, and autonomous AI agents
-- **Web3 Product Managers**: Exploring next-gen AI × ETH dApps and A2A architectures, as well as x402
-- **AI Startups**: Share projects and insights with the community and foundations — and connect with peers
-- **Motivated Learners**: Dive into the frontier of AI × ETH
+- **AI 智能体 & 以太坊开发者**：将以太坊的能力扩展到去中心化 AI
+- **AI/ML 工程师 & 研究者**：构建无需信任、可验证且自主的 AI 智能体
+- **Web3 产品经理**：探索下一代 AI × ETH dApps 和 A2A 架构，以及 x402
+- **AI 初创公司**：与社区和基金会分享项目和见解，并与同行建立联系
+- **积极的学习者**：深入探索 AI × ETH 的前沿领域
 
-If you’re ready to:
+如果您准备好：
 
-- Dive into **ERC-8004**, **x402** and build MVPs around it.
-- Turn ideas into working code using the latest Ethereum features.
-- Have fun and create something cool.
+- 深入 **ERC-8004**、**x402** 并围绕它们构建 MVP。
+- 使用最新的以太坊功能将想法转化为可运行的代码。
+- 享受乐趣并创造一些很酷的东西。
 
-**This hackathon is for you.**
+**这个黑客松适合您。**
 
-## 🎁 Awards and Prizes
+## 🎁 奖项和奖品
 
-- The greatest reward is the knowledge you gain — and the chance to meet like-minded builders through their shared notes.
-- Outstanding builders may be invited to demo on stage at **Devconnect Trustless Agent Day on Nov 21**.
-- More benefits will be announced with partners!
+- 最大的奖励是您获得的知识——以及通过共享笔记结识志同道合的构建者的机会。
+- 优秀的构建者可能会被邀请在 **11 月 21 日 Devconnect Trustless Agent Day** 的舞台上进行演示。
+- 更多福利将与合作伙伴一起公布！
 
-### 🚀 Project Examples
+### 🚀 项目示例
 
-- **ERC-8004 Trustless Agents Example**: [GitHub Repository](https://github.com/vistara-apps/erc-8004-example)
-- **x402-starter-kit**: [Github Repository](https://github.com/dabit3/x402-starter-kit/)
-- **Arena SDK**: With 8004 identities + A2A + ChaosChain integration for receipt logged on-chain and payment released on verification. [GitHub Repository](https://github.com/vistara-apps/agent-arena-v1)
+- **ERC-8004 Trustless Agents 示例**：[GitHub 仓库](https://github.com/vistara-apps/erc-8004-example)
+- **x402-starter-kit**：[GitHub 仓库](https://github.com/dabit3/x402-starter-kit/)
+- **Arena SDK**：集成 8004 身份 + A2A + ChaosChain，实现收据链上记录和验证后支付释放。 [GitHub 仓库](https://github.com/vistara-apps/agent-arena-v1)
 
-Welcome to propose more ideas and examples!
+欢迎提出更多想法和示例！
 
-## 🧩 Why ERC-8004? Why Now?
+## 🧩 为什么是 ERC-8004？为什么是现在？
 
-**ERC-8004** addresses key limitations of traditional AI agent systems while preserving their core strength: enabling trustless, verifiable, and economically autonomous AI agents.
+**ERC-8004** 解决了传统 AI 智能体系统的关键限制，同时保留了其核心优势：实现无需信任、可验证且经济自主的 AI 智能体。
 
-Key benefits:
+主要优势：
 
-- ✅ **Decentralized Identity** (works with existing Ethereum infrastructure)
-- ✅ **Highly extensible** (supports custom validation logic and reputation systems)
-- ✅ **Improved security model** (avoids centralized control and single points of failure)
+- ✅ **去中心化身份**（与现有以太坊基础设施兼容）
+- ✅ **高度可扩展**（支持自定义验证逻辑和声誉系统）
+- ✅ **改进的安全模型**（避免中心化控制和单点故障）
 
-This isn't just a fix — it's a new design space for AI agents, dApps, security, identity, and permissions.
+这不仅仅是一个修复——它是 AI 智能体、dApps、安全、身份和权限的新设计空间。
 
-**Now** is the time to build, test, question, and innovate — hands-on, from the ground up.
+**现在**是构建、测试、质疑和创新的最佳时机——从零开始，亲自动手。
 
-## 🛠 Highlights
+## 🛠 亮点
 
-✨ **Tech Talks**
+✨ **技术分享**
 
-- Deep dives into ERC-8004
-- Evolution of Decentralized AI Agents
-- Modular agent architecture trends
+- 深入探讨 ERC-8004
+- 去中心化 AI 智能体的演进
+- 模块化智能体架构趋势
 
-💬 **Online Learning Space**
+💬 **在线学习空间**
 
-- Small, high-signal discussion groups
-- Shared collab code zones
-- Global devs co-building across time zones
+- 小而精的讨论小组
+- 共享协作代码区
+- 全球开发者跨时区共建
 
-## 📚 Resources
+## 📚 资源
 
-> Feel free to add some resources through PRs.
+> 欢迎通过 PR 添加更多资源。
 
-- [Idea](./docs/idea.md)
-- [Articles](./docs/articles.md)
-- [Examples](./docs/examples/README.md)
+- [想法](./docs/idea.md)
+- [文章](./docs/articles.md)
+- [示例](./docs/examples/README.md)
 
-### 🎥 Workshop Videos
+### 🎥 工作坊视频
 
-- **Ethereum × AI: A Spark of Innovation? Exploring Trustless Agents with the Author of ERC-8004**
+- **以太坊 × AI：创新的火花？与 ERC-8004 作者一起探索无需信任的智能体**
 
   - [YouTube](https://youtu.be/Uu9NaCnSZoE?si=Ud9v4JToXI_1gqYO)
   - [Bilibili](https://www.bilibili.com/video/BV1ChWkzvEdf/)
 
-- **Unlocking the Core of AI Agent Memory: How Unibase Empowers the ERC-8004 Trust Framework**
+- **解锁 AI 智能体记忆的核心：Unibase 如何赋能 ERC-8004 信任框架**
   - [YouTube](https://youtu.be/DwvZHa-xNRc?si=Y3Ylg-UQV0qlkTND)
   - [Bilibili](https://www.bilibili.com/video/BV1JhsyzTEaV/?spm_id_from=333.1387.homepage.video_card.click)
 
-### 📖 Learning Materials
+### 📖 学习材料
 
-**Recommended 14 days learning plans**: [Trustless Agents CoLearning 14 daily learning plans](https://lxdao.notion.site/Trustless-Agents-CoLearning-14-daily-learning-plans-28cdceffe40b807590bfdbf7ccd356ae)
+**推荐的 14 天学习计划**：[Trustless Agents CoLearning 14 天每日学习计划](https://lxdao.notion.site/Trustless-Agents-CoLearning-14-daily-learning-plans-28cdceffe40b807590bfdbf7ccd356ae)
 
-**More learning materials and notes from Phase 1**: [Trustless Agents (ERC-8004) Intensive CoLearning](https://intensivecolearn.ing/en/programs/trustless-agents)
+**第一阶段更多学习材料和笔记**：[Trustless Agents (ERC-8004) 强化共学](https://intensivecolearn.ing/en/programs/trustless-agents)
 
-## 🤝 Co-organizers
+## 🤝 联合主办
 
 <table>
     <tr>
@@ -128,7 +128,7 @@ This isn't just a fix — it's a new design space for AI agents, dApps, security
     </tr>
 </table>
 
-## 🤝 Special Supporter
+## 🤝 特别支持
 
 <table>
     <tr>
@@ -140,7 +140,7 @@ This isn't just a fix — it's a new design space for AI agents, dApps, security
     </tr>
 </table>
 
-## 💰 Sponsors
+## 💰 赞助商
 
 <table>
     <tr>
@@ -157,7 +157,7 @@ This isn't just a fix — it's a new design space for AI agents, dApps, security
     </tr>
 </table>
 
-## 🌟 Community Supporters
+## 🌟 社区支持者
 
 <table>
     <tr>
@@ -174,23 +174,23 @@ This isn't just a fix — it's a new design space for AI agents, dApps, security
     </tr>
 </table>
 
-## 🎯 Seeking More Partnerships
+## 🎯 寻求更多合作伙伴
 
-More sponsors and supporters are on the way! If you wish to support, please dm [@brucexu_eth](https://t.me/brucexu_eth). We welcome all forms of sponsorship and partnership!
+更多赞助商和支持者正在路上！如果您希望提供支持，请私信 [@brucexu_eth](https://t.me/brucexu_eth)。我们欢迎各种形式的赞助和合作！
 
-## 🌿 What is Casual Hackathon?
+## 🌿 什么是 Casual Hackathon？
 
-Low-cost, casual hackathons that let anyone revel in the pure joy of creating — and spark real innovation in return. Casual Hackathon is an open-source public good initated by [LXDAO](https://forum.lxdao.io/t/the-introduction-of-casual-hackathon/2827).
+低成本、轻松的 hackathon，让任何人都能享受创造的纯粹乐趣——并激发真正的创新。Casual Hackathon 是由 [LXDAO](https://forum.lxdao.io/t/the-introduction-of-casual-hackathon/2827) 发起的开源公共产品。
 
-### ✨ Core Principles
+### ✨ 核心原则
 
-- **Lightweight operation**: Online-first, casual participation, no pressure — extremely low operational overhead.
-- **Open-source public good**: Fully open-source with no patent restrictions; any group can adopt or fork it.
-- **De-commercialized**: No mandatory prize pools or sponsor KPIs — bounty hunters stay away, creativity comes first.
-- **Relaxed participation**: No forced all-nighters or on-site attendance; health and enjoyment matter.
-- **Everyone wins**: Mentors present a unique award to every project, giving all ideas their moment.
-- **Curated themes**: Carefully curated prompts that spark imagination and encourage playful, cutting-edge development
+- **轻量运营**：线上优先，轻松参与，无压力——运营成本极低。
+- **开源公共产品**：完全开源，无专利限制；任何组织都可以采用或分叉。
+- **去商业化**：没有强制奖金池或赞助商 KPI——远离赏金猎人，创意优先。
+- **轻松参与**：不强制通宵或现场参与；健康和享受很重要。
+- **人人有奖**：导师为每个项目颁发独特奖项，让所有想法都有展示的机会。
+- **精选主题**：精心策划的提示，激发想象力，鼓励有趣的前沿开发
 
 ---
 
-Have fun!
+祝您玩得开心！

@@ -4,7 +4,7 @@
  * Used to process registration information from GitHub Issues, create user registration files and update README table
  */
 
-const RegistrationProcessor = require('./processors/registration-processor');
+const RegistrationProcessor = require('./processors/registration_processor');
 
 // Get parameters from environment variables
 const issueBody = process.env.ISSUE_BODY;
@@ -26,16 +26,16 @@ try {
         fs.appendFileSync(process.env.GITHUB_OUTPUT, `script_success=true\n`);
     }
 
-    console.log('✅ Registration processing completed successfully');
+    console.log('✅ 报名处理完成');
 } catch (error) {
     // Set script_success to false when processing fails
     if (process.env.GITHUB_OUTPUT) {
         const fs = require('fs');
         fs.appendFileSync(process.env.GITHUB_OUTPUT, `script_success=false\n`);
-        fs.appendFileSync(process.env.GITHUB_OUTPUT, `error_message<<EOF\n❌ **Processing Failed**\n\nRegistration processing failed: ${error.message}\nEOF\n`);
+        fs.appendFileSync(process.env.GITHUB_OUTPUT, `error_message<<EOF\n❌ **处理失败**\n\n报名处理失败：${error.message}\nEOF\n`);
     }
 
-    console.error('ERROR_MESSAGE:', `❌ **Processing Failed**\n\nRegistration processing failed: ${error.message}`);
-    console.error('Registration processing failed:', error.message);
+    console.error('ERROR_MESSAGE:', `❌ **处理失败**\n\n报名处理失败：${error.message}`);
+    console.error('报名处理失败：', error.message);
     process.exit(1);
 }

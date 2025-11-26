@@ -1,41 +1,39 @@
-## 🙋 How to operate?
+## 🙋 如何参赛报名并提交项目？
 
 [](https://github.com/user-attachments/assets/6dc380f4-da7b-4984-a835-612820af4d8a)
 
-## 📝 Registration
+## 📝 报名参赛
 
 <!-- Registration link start -->
 
-[Register ➡️](<https://github.com/BiscuitCoder/ch-v3-test/issues/new?title=Registration%20-%20New&body=%23%23%20Registration%20Form%0A%0A%3E%20%F0%9F%93%9D%20**Please%20fill%20in%20the%20content%20after%20%22%3E%22**%0A%0A**Name**%20(Please%20enter%20your%20full%20name%20%7C%20Required)%0A%3E%0A%0A**Description**%20(Brief%20personal%20introduction%20including%20skills%20and%20experience%20%7C%20Required)%0A%3E%0A%0A**Contact**%20(Format%3A%20Contact%20Method%3A%20Contact%20Account%2C%20e.g.%2C%20Telegram%3A%20%40username%2C%20WeChat%3A%20username%2C%20Email%3A%20email%40example.com%20%7C%20Required)%0A%3E%0A%0A**Wallet%20Address**%20(Your%20wallet%20address%20or%20ENS%20domain%20on%20Ethereum%20mainnet)%0A%3E%0A%0A**Team%20Willingness**%20(Choose%20one%3A%20Yes%20%7C%20No%20%7C%20Maybe)%0A%3E>)
+[报名参赛 ➡️](<https://github.com/BiscuitCoder/ch-v3-test/issues/new?title=%E6%8A%A5%E5%90%8D%20-%20New&body=%23%23%20%E6%8A%A5%E5%90%8D%E8%A1%A8%E5%8D%95%0A%0A%3E%20%F0%9F%93%9D%20**%E8%AF%B7%E5%9C%A8%20%22%3E%22%20%E5%90%8E%E5%A1%AB%E5%86%99%E5%86%85%E5%AE%B9**%0A%0A**%E5%A7%93%E5%90%8D**%20(%E8%AF%B7%E8%BE%93%E5%85%A5%E6%82%A8%E7%9A%84%E5%85%A8%E5%90%8D%20%7C%20%E5%BF%85%E5%A1%AB)%0A%3E%0A%0A**%E7%AE%80%E4%BB%8B**%20(%E7%AE%80%E8%A6%81%E7%9A%84%E4%B8%AA%E4%BA%BA%E4%BB%8B%E7%BB%8D%EF%BC%8C%E5%8C%85%E6%8B%AC%E6%8A%80%E8%83%BD%E5%92%8C%E7%BB%8F%E9%AA%8C%20%7C%20%E5%BF%85%E5%A1%AB)%0A%3E%0A%0A**%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F**%20(%E6%A0%BC%E5%BC%8F%EF%BC%9A%E8%81%94%E7%B3%BB%E6%96%B9%E5%BC%8F%EF%BC%9A%E8%81%94%E7%B3%BB%E8%B4%A6%E5%8F%B7%EF%BC%8C%E4%BE%8B%E5%A6%82%EF%BC%9ATelegram%3A%20%40username%EF%BC%8C%E5%BE%AE%E4%BF%A1%3A%20username%EF%BC%8C%E9%82%AE%E7%AE%B1%3A%20email%40example.com%20%7C%20%E5%BF%85%E5%A1%AB)%0A%3E%0A%0A**%E9%92%B1%E5%8C%85%E5%9C%B0%E5%9D%80**%20(%E6%82%A8%E5%9C%A8%E4%BB%A5%E5%A4%AA%E5%9D%8A%E4%B8%BB%E7%BD%91%E7%9A%84%E9%92%B1%E5%8C%85%E5%9C%B0%E5%9D%80%E6%88%96%20ENS%20%E5%9F%9F%E5%90%8D)%0A%3E%0A%0A**%E7%BB%84%E9%98%9F%E6%84%8F%E6%84%BF**%20(%E9%80%89%E6%8B%A9%E4%B8%80%E9%A1%B9%EF%BC%9A%E6%98%AF%20%7C%20%E5%90%A6%20%7C%20%E5%8F%AF%E8%83%BD)%0A%3E>)
 
 <!-- Registration link end -->
 
-- Note: Please do not modify other people's information.
-- View registration list: [Registration](#-registration)
+- 注意：请勿修改他人的信息。
+- 查看报名列表：[报名](#-报名)
 
 <!-- Registration start -->
 
-| Name                                                                                                                                                 | Description    | Contact | Team Willingness | Operate                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     |
-| ---------------------------------------------------------------------------------------------------------------------------------------------------- | -------------- | ------- | ---------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <img src="https://avatars.githubusercontent.com/u/17230944?v=4" width="20" height="20" style="border-radius: 50%; vertical-align: middle;" /> Keylem | test txt...... | tg:324  | Yes              | [Edit](<https://github.com/BiscuitCoder/ch-v3-test/issues/new?title=Registration%20-%20Keylem&body=%23%23%20Registration%20Form%0A%0A%3E%20%F0%9F%93%9D%20**Please%20fill%20in%20the%20content%20after%20%22%3E%22**%0A%0A**Name**%20(Please%20enter%20your%20full%20name%20%7C%20Required)%0A%3EKeylem%0A%0A**Description**%20(Brief%20personal%20introduction%20including%20skills%20and%20experience%20%7C%20Required)%0A%3Etest%20txt......%0A%0A**Contact**%20(Format%3A%20Contact%20Method%3A%20Contact%20Account%2C%20e.g.%2C%20Telegram%3A%20%40username%2C%20WeChat%3A%20username%2C%20Email%3A%20email%40example.com%20%7C%20Required)%0A%3Etg%3A324%0A%0A**Wallet%20Address**%20(Your%20wallet%20address%20or%20ENS%20domain%20on%20Ethereum%20mainnet)%0A%3E0x234234%0A%0A**Team%20Willingness**%20(Choose%20one%3A%20Yes%20%7C%20No%20%7C%20Maybe)%0A%3EYes%0A%0A**Avatar%20URL**%0A%3E%20https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F17230944%3Fv%3D4>) |
+| 头像 | 姓名 | 简介 | 联系方式 | 组队意愿 | 操作 |
+| ---- | ---- | ---- | -------- | -------- | ---- |
 
 <!-- Registration end -->
 
-## 🎯 Submission
+## 🎯 提交
 
 <!-- Submission link start -->
 
-[Submit ➡️](<https://github.com/BiscuitCoder/ch-v3-test/issues/new?title=Submission%20-%20New&body=%23%23%20Project%20Submission%20Form%0A%0A%3E%20%F0%9F%93%9D%20**Please%20fill%20in%20the%20content%20after%20%22%3E%22**%0A%0A**Project%20Name**%20(Enter%20your%20project%20name%20%7C%20Required)%0A%3E%0A%0A**Project%20Description**%20(Brief%20description%20about%20your%20project%20in%20one%20sentence%20%7C%20Required)%0A%3E%0A%0A**Repository%20URL**%20(Open%20source%20repository%20URL%20-%20project%20must%20be%20open%20source)%0A%3E%0A%0A**Project%20Leader**%20(Project%20leader%20name%20%7C%20Required)%0A%3E%0A%0A**Project%20Members**%20(List%20all%20team%20members%2C%20comma-separated)%0A%3E%0A%0A**Team%20Members%20Wallet**%20(List%20all%20team%20members%20wallet%2C%20comma-separated%20e.g.%2C%20Alice%3A0x12345...%20%2C%20Bob%3A0x12345...)%0A%3E>)
+[项目提交 ➡️](<https://github.com/BiscuitCoder/ch-v3-test/issues/new?title=%E6%8F%90%E4%BA%A4%20-%20New&body=%23%23%20%E9%A1%B9%E7%9B%AE%E6%8F%90%E4%BA%A4%E8%A1%A8%E5%8D%95%0A%0A%3E%20%F0%9F%93%9D%20**%E8%AF%B7%E5%9C%A8%20%22%3E%22%20%E5%90%8E%E5%A1%AB%E5%86%99%E5%86%85%E5%AE%B9**%0A%0A**%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0**%20(%E8%AF%B7%E8%BE%93%E5%85%A5%E6%82%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%E5%90%8D%E7%A7%B0%20%7C%20%E5%BF%85%E5%A1%AB)%0A%3E%0A%0A**%E9%A1%B9%E7%9B%AE%E6%8F%8F%E8%BF%B0**%20(%E7%94%A8%E4%B8%80%E5%8F%A5%E8%AF%9D%E7%AE%80%E8%A6%81%E6%8F%8F%E8%BF%B0%E6%82%A8%E7%9A%84%E9%A1%B9%E7%9B%AE%20%7C%20%E5%BF%85%E5%A1%AB)%0A%3E%0A%0A**%E4%BB%93%E5%BA%93%E5%9C%B0%E5%9D%80**%20(%E5%BC%80%E6%BA%90%E4%BB%93%E5%BA%93%E5%9C%B0%E5%9D%80%20-%20%E9%A1%B9%E7%9B%AE%E5%BF%85%E9%A1%BB%E5%BC%80%E6%BA%90)%0A%3E%0A%0A**%E9%A1%B9%E7%9B%AE%E8%B4%9F%E8%B4%A3%E4%BA%BA**%20(%E9%A1%B9%E7%9B%AE%E8%B4%9F%E8%B4%A3%E4%BA%BA%E5%A7%93%E5%90%8D%20%7C%20%E5%BF%85%E5%A1%AB)%0A%3E%0A%0A**%E9%A1%B9%E7%9B%AE%E6%88%90%E5%91%98**%20(%E5%88%97%E5%87%BA%E6%89%80%E6%9C%89%E5%9B%A2%E9%98%9F%E6%88%90%E5%91%98%EF%BC%8C%E7%94%A8%E9%80%97%E5%8F%B7%E5%88%86%E9%9A%94)%0A%3E%0A%0A**%E5%9B%A2%E9%98%9F%E6%88%90%E5%91%98%E9%92%B1%E5%8C%85**%20(%E5%88%97%E5%87%BA%E6%89%80%E6%9C%89%E5%9B%A2%E9%98%9F%E6%88%90%E5%91%98%E7%9A%84%E9%92%B1%E5%8C%85%E5%9C%B0%E5%9D%80%EF%BC%8C%E7%94%A8%E9%80%97%E5%8F%B7%E5%88%86%E9%9A%94%EF%BC%8C%E4%BE%8B%E5%A6%82%EF%BC%9AAlice%3A0x12345...%EF%BC%8CBob%3A0x12345...)%0A%3E>)
 
 <!-- Submission link end -->
 
-- Complete registration before submitting.
-- Note: Please do not modify other people's information.
-- View project submissions: [Submission](#-submission)
+- 提交前请先完成报名。
+- 注意：请勿修改他人的信息。
 
 <!-- Submission start -->
 
-| Project | Description | Members | Leader | Repository | Operate |
-| ------- | ----------- | ------- | ------ | ---------- | ------- |
+| 项目 | 描述 | 成员 | 负责人 | 仓库 | 操作 |
+| ---- | ---- | ---- | ------ | ---- | ---- |
 
 <!-- Submission end -->
